@@ -26,6 +26,15 @@ export default function Home() {
             <code className="language-sh">h</code> <code className="language-sh">j</code> <code className="language-sh">k</code> <code className="language-sh">l</code> | left, down, up, right 
           </li>
         </ul>
+        <h2>Explore</h2>
+        <ul>
+          <li>
+            <code className="language-sh">:Explore</code> | open native file tree
+          </li>
+          <li>
+            <code className="language-sh">d</code> | create a new directory from explore 
+          </li>
+        </ul>
       </main>
     </div>
   )
