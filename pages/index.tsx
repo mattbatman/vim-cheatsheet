@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Matt Batman's Vim Cheatsheet</title>
+        <title>Matt Batman&rsquo;s Vim Cheatsheet</title>
         <meta name="description" content="Matt Batman's Vim Cheatsheet" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
